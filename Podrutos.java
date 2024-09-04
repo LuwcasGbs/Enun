@@ -1,0 +1,36 @@
+package Enun;
+
+public enum Podrutos {
+	
+	Arroz,
+	Azeite,
+	Bolacha,
+	Café,
+	Chá,
+	Extrato_de_tomate,
+	Farinha,
+	Feijão,
+	Leite,
+	Macarrão,
+	Maionese,
+	Óleo,
+	Tempero,
+	Alimentos_congelados,
+	Apresuntado,
+	Iogurtes,
+	Leite_fermentado,
+	Manteiga,
+	Margarina,
+	Mortadela,
+	Peito_de_peru,
+	Presunto,
+	Queijo,
+	Requeijão,
+	Salame,
+	Bebidas,
+	Achocolatados,
+	Água,
+	Cervejas,
+	Energéticos,
+	Refrigerantes
+}
